@@ -4,6 +4,8 @@ A lightweight industrial demo showcasing **WinCC SCADA ↔ Python integration us
 
 This project demonstrates how Python can act as a **backend middleware** to fetch live weather data via REST APIs, parse it safely, and update WinCC tags in real time — **without using WinCC REST connectors**.
 
+![Demo](./WinCC_OPC_UA_Python_Weather_App.gif)
+
 
 ---
 
