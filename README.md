@@ -13,7 +13,7 @@ This project demonstrates how Python can act as a **backend middleware** to fetc
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/WinCC_WeatherApp.git
+git clone https://github.com/ahmadfaizan965/WinCC_WeatherApp.git
 ```
 
 
