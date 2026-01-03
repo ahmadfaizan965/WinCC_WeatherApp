@@ -15,7 +15,7 @@ git clone https://github.com/your-username/WinCC_WeatherApp.git
 ```
 
 
-<h4> ⚙️Before You Run (Required Updates)</h4>
+<h3> ⚙️Before You Run (Required Updates)</h3>
 
 Before running the project, update the following in the Python code:
 
